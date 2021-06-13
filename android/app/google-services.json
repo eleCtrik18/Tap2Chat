@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205619620499",
+    "project_id": "tap2chat-393d1",
+    "storage_bucket": "tap2chat-393d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205619620499:android:8227190e55bd4b725e7b66",
+        "android_client_info": {
+          "package_name": "com.example.c2c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205619620499-rvr5njl4ool90kduslb1hcja06rveodk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0g7YQKD-IiLtCOQTqLf3B7fy2UpqHaJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205619620499-rvr5njl4ool90kduslb1hcja06rveodk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
